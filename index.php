@@ -27,6 +27,5 @@ require_once __DIR__ . "/database.php";
   </div>
   <?php endforeach; ?>
 </div>
-
 </body>
 </html>
