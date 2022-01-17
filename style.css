@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  min-height: 100vh;
+  background-color: rgb(23, 107, 175);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  background-color: rgb(21, 60, 97);
+  padding: 15px;
+  margin: 30px;
+  text-align: center;
+  color: white;
+  line-height: 50px;
+}
+
+h3{
+  font-size: 30px;
+}
